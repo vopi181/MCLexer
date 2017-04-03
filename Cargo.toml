@@ -1,0 +1,6 @@
+[package]
+name = "MCLexer"
+version = "0.1.0"
+authors = ["Dominic Pace <dompace181@gmail.com>"]
+
+[dependencies]
