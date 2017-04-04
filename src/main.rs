@@ -19,7 +19,7 @@ fn main() {
     let mut input_file: Path;
     input_file = Path::new(&args[1]);
 
-    println!("Minecraft Lexer & Compiler Tool by vopi181");
+    println!("Mc Lexer & Compiler Tool by vopi181");
     println!("https://github.com/vopi181/");
     println!("{}", input_file.to_str);
     load_file(input_file);
