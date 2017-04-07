@@ -4,9 +4,9 @@ mod defines {
        variable,
        function,
     }
-    pub #[derive(Debug)]
-    struct cells {
-        cell_type: cells_defines
+     #[derive(Debug)]
+    pub struct cells_struct {
+        cell_type: cells_defines,
         data: string
     }
 }
